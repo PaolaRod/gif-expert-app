@@ -12,7 +12,7 @@ https://paolarod.github.io/gif-expert-app/
 ## Previsualización 📖
 Una muestra de como se ve el sitio web.
  
-![](https://github.com/PaolaRod/gif-expert-app/blob/main/images/react.png)
+![](https://github.com/PaolaRod/gif-expert-app/blob/main/src/react.png)
 
 ## Available Scripts
 
