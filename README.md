@@ -1,9 +1,24 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Gif expert app
+
+Aplicación web en la que puedes realizar la búsqueda de gifs, ingresando palabras claves, solicitando la información a un API. Esta aplicación se desarrolla con [React](https://es.reactjs.org/) para lograr por medio de *componentes* y *hooks* realizar exitosas peticiones. Forma parte del curso de React en la academia [Udemy](https://www.udemy.com/).    
+
+## Link al sitio web 📌
+Puedes visualizar el sitio web en el siguiente link:
+https://paolarod.github.io/gif-expert-app/
+ 
+## Herramienta utilizada 🛠
+* [React](https://es.reactjs.org/)
+
+## Previsualización 📖
+Una muestra de como se ve el sitio web.
+ 
+![](https://github.com/PaolaRod/gif-expert-app/blob/main/images/react.png)
 
 ## Available Scripts
 
-In the project directory, you can run:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br />
