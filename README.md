@@ -10,7 +10,7 @@ https://paolarod.github.io/gif-expert-app/
 * [React](https://es.reactjs.org/)
 
 ## Previsualización 📖
-Una muestra de como se ve el sitio web.
+Una muestra de como se ve la aplicación web.
  
 ![](https://github.com/PaolaRod/gif-expert-app/blob/main/src/react.png)
 
